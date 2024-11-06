@@ -1,0 +1,319 @@
+<<<<<<< HEAD
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: #F3F3F4;
+}
+
+body{
+    background-color: #D72638;
+    text-align: center;
+}
+
+.Container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.Box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1ric;
+    border:none;
+    box-shadow: 0,0,1rem rgba(0,0,0,0.4);
+    font-size: 8vmin;
+    color: #F49D37;
+    background-color: #140F2D;
+}
+button{
+    height: 10vmin;
+    background-color: #140F2D;
+    width: 15vmin;
+    border-radius: 1ric;
+    border: none;
+    box-shadow:0,0,1rem rgba(0,0,0,0.4); 
+    font-size: 2vmin;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:oblique;
+}
+#new-btn{
+    height: 10vmin;
+    background-color: #140F2D;
+    width: 15vmin;
+    border-radius: 1ric;
+    border: none;
+    box-shadow:0,0,1rem rgba(0,0,0,0.4); 
+    font-size: 2vmin;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+.welcome{
+    font-style:oblique;
+    font-weight: 5000;
+}
+
+.greet{
+    font-size: 5vmin;
+
+}
+
+.button{
+    color: #F3F3F4;
+
+}
+
+#msg{
+    color:#F3F3F4 ;
+    font-size: 8vmin;
+}
+
+.msg-container{
+    height: 80vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rim;
+}
+
+.hide{
+    display: none;
+}
+
+.draw{
+    text-align:center;
+    height: 150vmin;
+    width: 192vmin;
+    gap:4rim ;
+    font-size: 10vmin;
+    font-style: italic;
+}
+
+
+#new-btn{
+    height: 10vmin;
+    background-color: #140F2D;
+    width: 15vmin;
+    border-radius: 1ric;
+    border: none;
+    box-shadow:0,0,1rem rgba(0,0,0,0.4); 
+    font-size: 2vmin;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: #F3F3F4;
+}
+
+body{
+    background-color: #D72638;
+    text-align: center;
+}
+
+.Container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.Box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1ric;
+    border:none;
+    box-shadow: 0,0,1rem rgba(0,0,0,0.4);
+    font-size: 8vmin;
+    color: #F49D37;
+    background-color: #140F2D;
+}
+button{
+    height: 10vmin;
+    background-color: #140F2D;
+    width: 15vmin;
+    border-radius: 1ric;
+    border: none;
+    box-shadow:0,0,1rem rgba(0,0,0,0.4); 
+    font-size: 2vmin;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:oblique;
+}
+#new-btn{
+    height: 10vmin;
+    background-color: #140F2D;
+    width: 15vmin;
+    border-radius: 1ric;
+    border: none;
+    box-shadow:0,0,1rem rgba(0,0,0,0.4); 
+    font-size: 2vmin;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+.welcome{
+    font-style:oblique;
+    font-weight: 5000;
+}
+
+.greet{
+    font-size: 5vmin;
+
+}
+
+.button{
+    color: #F3F3F4;
+
+}
+
+#msg{
+    color:#F3F3F4 ;
+    font-size: 8vmin;
+}
+
+.msg-container{
+    height: 80vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rim;
+}
+
+.hide{
+    display: none;
+}
+
+.draw{
+    text-align:center;
+    height: 150vmin;
+    width: 192vmin;
+    gap:4rim ;
+    font-size: 10vmin;
+    font-style: italic;
+}
+
+
+#new-btn{
+    height: 10vmin;
+    background-color: #140F2D;
+    width: 15vmin;
+    border-radius: 1ric;
+    border: none;
+    box-shadow:0,0,1rem rgba(0,0,0,0.4); 
+    font-size: 2vmin;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 9239499099e74abcf3251298a283e9a9903c109c
